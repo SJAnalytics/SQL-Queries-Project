@@ -6,4 +6,4 @@
 ## 3) Present SQL results to technical colleagues using Excel and by creating a data dictionary
 ## 4) Prepare final presentation and visualizations
 ## Final Report
-* see attached Final SQL Report files
+* see attached Final SQL Reporting (contains examples of queries, data dictionary, Excel preparation for colleagues
