@@ -7,3 +7,4 @@
 ## 4) Prepare final presentation and visualizations
 ## Final Report
 * see attached Final SQL Reporting (contains examples of queries, data dictionary, Excel preparation for colleagues
+* [Link To TABLEAU visualizations reporting](https://public.tableau.com/app/profile/seth.johnson2135/viz/Achievement3Project/Story1)
